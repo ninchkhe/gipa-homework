@@ -1,0 +1,65 @@
+.diff-color{
+    color: #003628;
+}
+
+
+p {
+    color: tomato; font-weight: bold;
+}
+
+
+ol{ color: blue;}
+
+
+
+ul{color: blue;}
+
+
+
+
+footer{background-color: #003628;}
+
+
+footer p{ color: antiquewhite;}
+
+#logo{
+    width: 100px;
+}
+header{ background-color: #003628;}
+
+#goals p, #goals h2 { margin: 0 
+    ;}
+
+#goals{ 
+    border: 5px solid rgb(0, 128, 9);
+    border-radius: 15px;
+  padding: 15px 25px;
+ margin: 50px auto;
+ width: 800px;
+}
+#services p,   #services h2{
+    margin: 0;
+ }
+
+#services { 
+    border: 5px solid rgb(0, 128, 9);
+    border-radius: 15px;
+  padding: 15px 25px;
+ margin: 50px auto;
+ width: 800px;
+}
+ ul, header {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+gap: 20px;
+}
+header{ color: aliceblue;}
+header a { color: aliceblue;}
+
+header {
+    justify-content: space-between;
+ align-items: center;
+padding: 10px 30px;
+}
+
